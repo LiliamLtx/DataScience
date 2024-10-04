@@ -12,3 +12,14 @@ Logo após chequei o ano que mais aparecia no conjunto de dados.
 ![countplot](https://github.com/user-attachments/assets/9574669b-dcfa-4b49-99fa-5698076a0bf7)
 
 A partir dessas duas vizualizações, consegui entender como os dados se comportavam e por fim parti para a análise!
+
+
+# DashBoard PowerBI
+Depois de fazer análise com Python, migrei para uma abordagem mais visual e interativa usando o PowerBI da Microsoft. <br>
+Divide meu DashBoard em duas páginas, sendo uma para visualização geral do conjunto de dados, abordando a quantidade de aréas que foram analisadas e também a quantidade de vagas em cada uma dessas áreas.
+
+## 1 - Painel Geral:
+![DSsalarios](https://github.com/user-attachments/assets/b8fa5a93-3631-4e9a-a3bf-30c1df288322)
+
+## 2 - Painel de Ranking:
+![DSranking](https://github.com/user-attachments/assets/0edc6c50-646d-4ed3-95fd-2a8f98a9730b)
