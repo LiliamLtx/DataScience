@@ -1,6 +1,6 @@
 # Salarios DataScience 2024
 
-A construção desse projeto surgiu da necessidade de entender melhor a evolução dos salários na área de Data Science ao longo dos anos. Meu objetivo é fornecer informações valiosas tanto para profissionais que já atuam na área quanto para aqueles que estão considerando ingressar nesse campo.
+A construção desse projeto surgiu da necessidade de entender melhor a evolução dos salários na área de Data Science ao longo dos anos. Meu objetivo é fornecer informações valiosas tanto para profissionais que já atuam na área quanto para aqueles que estão considerando ingressar nesse campo. <br>
 Meu foco não foi abordar quais áreas mais cresceram durantes os anos, mas sim abordar o maior faturamento e maior quantidade de vagas entre as áreas.
 
 ## 1- Heatmap
