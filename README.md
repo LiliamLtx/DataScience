@@ -6,7 +6,7 @@ Meu foco não foi abordar quais áreas mais cresceram durantes os anos, mas sim 
 
 > A fim de estudos, dividi esse projetos em dois: análise com python e análise com powerBI
 
-##Python:
+## Python:
 
 ### 1- Heatmap
 Dentro da análise, usei o mapa de calor para começar a manipular os dados, a fim de entender a relação entre as variáveis numéricas.
